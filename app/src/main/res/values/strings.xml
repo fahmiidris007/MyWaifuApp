@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">submission-dicoding-android-pemula</string>
+    <string name="heroes_name">Nama Waifu</string>
+    <string name="description">Deskripsi</string>
+    <string name="my_name">Fahmi Idris</string>
+    <string name="my_email">fahmiidris@apps.ipb.ac.id</string>
+    <string name="image">Image</string>
+    <string name="detail_received">Detail Received</string>
+    <string name="detail">Detail</string>
+    <string name="anime">Anime</string>
+    <string name="anime_received">Anime Received</string>
+    <string name="genre">Genre</string>
+    <string name="genre_received">Genre Received</string>
+    <string name="character">Karakter</string>
+    <string name="character_received">Karakter Received</string>
+    <string name="seiyuu">Seiyuu</string>
+    <string name="seiyuu_received">Seiyuu Received</string>
+    <string name="couple">Pasangan</string>
+    <string name="couple_received">Pasangan Received</string>
+    <string name="waifu_name">Nama Waifu</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">Card View</string>
+</resources>
